@@ -25,7 +25,7 @@ main {
 }
 
 h1, h2, h3 {
-    color: #2563eb;
+    color: #ffffff;
 }
 
 button {
@@ -60,4 +60,14 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+article{
+    background-color: #93b3ff;
+    width: 60%;
+    height: auto;
+}
+
+button{
+    background-color: rgb(0, 17, 203);
 }
